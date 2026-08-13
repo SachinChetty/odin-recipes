@@ -1,0 +1,1 @@
+Building a basic recipe website, consisting of a main index page tht will have links linking to other recipe pages. This projetc itself will build my skills in working with text and lists. It will also help me improve my skills for providing links to other pages and adding images to pages as well. 
